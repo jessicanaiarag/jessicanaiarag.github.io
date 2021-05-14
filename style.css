@@ -1,0 +1,41 @@
+    .meuNome {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+        text-align: center;   
+    }
+    .descricao {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    body {
+        background-color: rgb(228, 185, 228);
+    }
+    .resido {
+    font-weight: 900;
+    
+    }       
+    .resiliencia {
+        font-size: 30px;
+    }
+    .comprometimento {
+        font-size: 20px;
+    }
+    .flexibilidade {
+        font-size: 15px;
+    }
+    #minhafoto {
+        float: left;
+        height: 280px;
+        padding: 10px;
+        background-color: bisque;
+        margin-right: 10px;
+    }
+    .imagicontainer {
+        height: 300px;
+    }
+    
+    #minhaDescricao {
+        padding: 10px;
+    }
+
+    ul li:nth-child(odd) {
+        background-color: violet;
+    }
